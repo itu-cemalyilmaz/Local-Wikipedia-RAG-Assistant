@@ -277,4 +277,4 @@ ai3/
 
 ## Demo Video
 
-🎬 [Link to demo video](#) *(replace with your Loom/YouTube link)*
+🎬 https://youtu.be/EgT56xMbZSo
