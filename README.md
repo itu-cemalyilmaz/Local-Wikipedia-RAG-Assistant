@@ -257,8 +257,8 @@ ai3/
 ├── app/
 │   └── chat_ui.py             ← Streamlit chat interface
 │
-├── chroma_db_v2/              ← Persisted ChromaDB data (gitignored)
-└── ingest_log.db              ← SQLite ingestion log (gitignored)
+├── chroma_db_v2/              ← Persisted ChromaDB data (pre-computed)
+└── ingest_log.db              ← SQLite ingestion log
 ```
 
 ---
